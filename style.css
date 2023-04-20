@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(
+    to right bottom,
+    #75aaf9,
+    #7d94fa,
+    #9479f2,
+    #b255df,
+    #cd00bf
+  );
+}
+
+.btn-submit > button {
+  width: 100%;
+  background-image: linear-gradient(to right bottom, #75aaf9, #9479f2, #b255df);
+  color: white;
+  border: 0;
+}
+
+.form-check {
+  margin-right: 5em;
+}
+
+.bg-lgrey {
+  background-color: #d6d9dd;
+}
